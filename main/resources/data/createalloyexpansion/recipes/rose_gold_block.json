@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "createalloyexpansion:rose_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "createalloyexpansion:rose_gold_block",
+    "count": 1
+  }
+}

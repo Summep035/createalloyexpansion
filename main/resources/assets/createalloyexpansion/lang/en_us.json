@@ -1,0 +1,14 @@
+{
+  "item.createalloyexpansion.rose_gold_ingot": "Rose Gold Ingot",
+  "block.createalloyexpansion.rose_gold_block": "Rose Gold Block",
+  "item.createalloyexpansion.rose_gold_block": "Rose Gold Block",
+  "item.createalloyexpansion.rose_gold_sword": "Rose Gold Sword",
+  "item.createalloyexpansion.rose_gold_chestplate": "Rose Gold Chestplate",
+  "item.createalloyexpansion.rose_gold_helmet": "Rose Gold Helmet",
+  "item.createalloyexpansion.rose_gold_boots": "Rose Gold Boots",
+  "item.createalloyexpansion.rose_gold_leggings": "Rose Gold Leggings",
+  "item.createalloyexpansion.rose_gold_axe":"Rose Gold Axe",
+  "item.createalloyexpansion.rose_gold_pickaxe": "Rose Gold Pickaxe",
+
+  "itemGroup.createalloyexpansion": "Create: Alloy Expansion"
+}
