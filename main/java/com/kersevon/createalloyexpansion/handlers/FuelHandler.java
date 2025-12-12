@@ -47,7 +47,7 @@ public class FuelHandler {
             setSuperheat(event.getLevel(), event.getPos(), burner, CUSTOM_BURN_TIME);
 
             if (!event.getEntity().isCreative()) {
-                event.getItemStack().shrink(1);
+                event.getItemStack().shrink(1);Errore nell'impostare il fuel custom per Blaze Burner:
             }
 
             event.getLevel().playSound(null, event.getPos(), SoundEvents.BLAZE_SHOOT, SoundSource.BLOCKS, 0.5f, 1.0f);
@@ -77,7 +77,7 @@ public class FuelHandler {
                 }
             }
         } catch (Exception e) {
-            System.err.println("Errore nell'impostare il fuel custom per Blaze Burner: " + e.getMessage());
+            System.err.println("ERROR LOADING CUSTOM BLAZE FUEL, JAVA EXCEPTION: " + e.getMessage());
         }
     }
 }
