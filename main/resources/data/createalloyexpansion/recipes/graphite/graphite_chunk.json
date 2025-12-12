@@ -1,0 +1,48 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createalloyexpansion:refined_coal_lump"
+  },
+  "transitionalItem": {
+    "item": "createalloyexpansion:unrefined_graphite_chunk"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createalloyexpansion:unrefined_graphite_chunk"
+        }
+      ],
+      "results": [
+        {
+          "item": "createalloyexpansion:unrefined_graphite_chunk"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createalloyexpansion:unrefined_graphite_chunk"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "amount": 75
+        }
+      ],
+      "results": [
+        {
+          "item": "createalloyexpansion:unrefined_graphite_chunk"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createalloyexpansion:graphite_chunk",
+      "chance": 1.0
+    }
+  ],
+  "loops": 4
+}

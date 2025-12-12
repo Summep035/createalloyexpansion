@@ -1,0 +1,13 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "createalloyexpansion:compressed_coal", "": 1 }
+  ],
+  "results": [
+    {
+      "item": "createalloyexpansion:refined_coal_lump",
+      "": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

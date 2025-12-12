@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "createalloyexpansion:block/reinforced_steel_block"
+  }
+}

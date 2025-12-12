@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:iron_ingot"},
+    { "item": "minecraft:iron_ingot"},
+    { "item": "minecraft:iron_ingot"},
+    { "item": "minecraft:iron_ingot"},
+    { "item": "createalloyexpansion:compressed_coal"},
+    { "item": "createalloyexpansion:compressed_coal"}
+  ],
+  "results": [
+    {
+      "item": "createalloyexpansion:steel_ingot",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "superheated"
+}

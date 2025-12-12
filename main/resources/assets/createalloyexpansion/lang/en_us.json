@@ -9,6 +9,7 @@
   "item.createalloyexpansion.rose_gold_leggings": "Rose Gold Leggings",
   "item.createalloyexpansion.rose_gold_axe":"Rose Gold Axe",
   "item.createalloyexpansion.rose_gold_pickaxe": "Rose Gold Pickaxe",
-
+  "item.createalloyexpansion.compressed_coal": "Compressed Coal",
+  "item.createalloyexpansion.refined_coal_lump": "Refined Coal Lump",
   "itemGroup.createalloyexpansion": "Create: Alloy Expansion"
 }

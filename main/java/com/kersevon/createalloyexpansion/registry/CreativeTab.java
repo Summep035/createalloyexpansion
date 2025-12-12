@@ -28,6 +28,16 @@ public class CreativeTab {
                                 output.accept(Items.ROSE_GOLD_CHESTPLATE.get());
                                 output.accept(Items.ROSE_GOLD_LEGGINGS.get());
                                 output.accept(Items.ROSE_GOLD_BOOTS.get());
+                                output.accept(Items.COMPRESSED_COAL_BLOCK.get());
+                                output.accept(Items.REFINED_COAL_LUMP_BLOCK.get());
+                                output.accept(Items.COMPRESSED_COAL.get());
+                                output.accept(Items.REFINED_COAL_LUMP.get());
+                                output.accept(Items.UNREFINED_GRAPHITE_CHUNK.get());
+                                output.accept(Items.GRAPHITE_CHUNK.get());
+                                output.accept(Items.GRAPHITE_BLOCK.get());
+                                output.accept(Items.GRAPHITE_CAKE.get());
+                                output.accept(Items.GRAPHITE_CAKE_BASE.get());
+
                             })
                             .build()
             );

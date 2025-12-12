@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:coal" },
+    { "item": "minecraft:coal" },
+    { "item": "minecraft:coal" },
+    { "item": "minecraft:coal" }
+  ],
+  "results": [
+    {
+      "item": "createalloyexpansion:compressed_coal",
+      "": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

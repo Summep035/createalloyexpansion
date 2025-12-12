@@ -1,0 +1,9 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {"item":"createalloyexpansion:graphite_cake_base"}
+  ],
+  "results": [
+    {"item": "createalloyexpansion:graphite_cake"}
+  ]
+}
